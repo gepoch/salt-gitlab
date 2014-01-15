@@ -1,0 +1,5 @@
+base:
+  '*':
+    - versions
+    - credentials
+    - database
